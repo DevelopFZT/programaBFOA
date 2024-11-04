@@ -1,0 +1,725 @@
+2024-09-25 20:32:06,595 - INFO - interaccion: 0.0, fitness: 6649.0, NFE: 5
+2024-09-25 20:32:07,213 - INFO - poblacion: 6
+2024-09-25 20:32:08,381 - INFO - interaccion: 0.0, fitness: 6649.0, NFE: 13
+2024-09-25 20:32:08,999 - INFO - poblacion: 6
+2024-09-25 20:32:10,162 - INFO - interaccion: 0.0, fitness: 6649.0, NFE: 21
+2024-09-25 20:32:10,789 - INFO - poblacion: 6
+2024-09-25 20:32:11,964 - INFO - interaccion: 0.0, fitness: 6696.0, NFE: 29
+2024-09-25 20:32:12,591 - INFO - poblacion: 6
+2024-09-25 20:32:13,756 - INFO - interaccion: 0.0, fitness: 6696.0, NFE: 37
+2024-09-25 20:32:14,373 - INFO - poblacion: 6
+2024-09-25 20:32:15,522 - INFO - interaccion: 0.0, fitness: 6696.0, NFE: 45
+2024-09-25 20:32:16,126 - INFO - poblacion: 6
+2024-09-25 20:32:17,281 - INFO - interaccion: 0.0, fitness: 6696.0, NFE: 53
+2024-09-25 20:32:17,891 - INFO - poblacion: 6
+2024-09-25 20:32:19,040 - INFO - interaccion: 0.0, fitness: 6696.0, NFE: 61
+2024-09-25 20:32:19,654 - INFO - poblacion: 6
+2024-09-25 20:32:20,792 - INFO - interaccion: 0.0, fitness: 9000.0, NFE: 69
+2024-09-25 20:32:21,410 - INFO - poblacion: 6
+2024-09-25 20:32:22,566 - INFO - interaccion: 0.0, fitness: 9000.0, NFE: 77
+2024-09-25 20:32:23,182 - INFO - poblacion: 6
+2024-09-25 20:32:24,336 - INFO - interaccion: 0.0, fitness: 9000.0, NFE: 85
+2024-09-25 20:32:24,948 - INFO - poblacion: 6
+2024-09-25 20:32:26,093 - INFO - interaccion: 0.0, fitness: 9000.0, NFE: 93
+2024-09-25 20:32:26,697 - INFO - poblacion: 6
+2024-09-25 20:32:27,841 - INFO - interaccion: 0.0, fitness: 9000.0, NFE: 101
+2024-09-25 20:32:28,446 - INFO - poblacion: 6
+2024-09-25 20:32:29,592 - INFO - interaccion: 0.0, fitness: 9000.0, NFE: 109
+2024-09-25 20:32:30,196 - INFO - poblacion: 6
+2024-09-25 20:32:31,328 - INFO - interaccion: 0.0, fitness: 9000.0, NFE: 117
+2024-09-25 20:32:31,937 - INFO - poblacion: 6
+2024-09-25 20:32:33,103 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 125
+2024-09-25 20:32:33,706 - INFO - poblacion: 6
+2024-09-25 20:32:34,856 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 133
+2024-09-25 20:32:35,457 - INFO - poblacion: 6
+2024-09-25 20:32:36,633 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 141
+2024-09-25 20:32:37,248 - INFO - poblacion: 6
+2024-09-25 20:32:38,392 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 149
+2024-09-25 20:32:38,989 - INFO - poblacion: 6
+2024-09-25 20:32:40,128 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 157
+2024-09-25 20:32:40,738 - INFO - poblacion: 6
+2024-09-25 20:32:41,894 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 165
+2024-09-25 20:32:42,497 - INFO - poblacion: 6
+2024-09-25 20:32:43,639 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 173
+2024-09-25 20:32:44,236 - INFO - poblacion: 6
+2024-09-25 20:32:45,366 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 181
+2024-09-25 20:32:45,970 - INFO - poblacion: 6
+2024-09-25 20:32:47,097 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 189
+2024-09-25 20:32:47,704 - INFO - poblacion: 6
+2024-09-25 20:32:48,860 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 197
+2024-09-25 20:32:49,463 - INFO - poblacion: 6
+2024-09-25 20:32:50,589 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 205
+2024-09-25 20:32:51,189 - INFO - poblacion: 6
+2024-09-25 20:32:52,334 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 213
+2024-09-25 20:32:52,937 - INFO - poblacion: 6
+2024-09-25 20:32:54,077 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 221
+2024-09-25 20:32:54,684 - INFO - poblacion: 6
+2024-09-25 20:32:55,818 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 229
+2024-09-25 20:32:56,424 - INFO - poblacion: 6
+2024-09-25 20:32:57,572 - INFO - interaccion: 0.0, fitness: 9082.0, NFE: 237
+2024-09-25 20:32:58,181 - INFO - poblacion: 6
+2024-09-25 23:51:32,268 - INFO - interaccion: 0.0, fitness: 5723.0, NFE: 5
+2024-09-25 23:51:32,870 - INFO - poblacion: 6
+2024-09-25 23:51:33,998 - INFO - interaccion: 0.0, fitness: 9006.0, NFE: 13
+2024-09-25 23:51:34,600 - INFO - poblacion: 6
+2024-09-25 23:51:35,734 - INFO - interaccion: 0.0, fitness: 9006.0, NFE: 21
+2024-09-25 23:51:36,337 - INFO - poblacion: 6
+2024-09-25 23:51:37,513 - INFO - interaccion: -2.7607725720801835e-07, fitness: 9013.999999723923, NFE: 29
+2024-09-25 23:51:38,105 - INFO - poblacion: 6
+2024-09-25 23:51:39,431 - INFO - interaccion: 0.0, fitness: 9061.0, NFE: 37
+2024-09-25 23:51:40,071 - INFO - poblacion: 6
+2024-09-25 23:51:41,207 - INFO - interaccion: 0.0, fitness: 9061.0, NFE: 45
+2024-09-25 23:51:41,813 - INFO - poblacion: 6
+2024-09-25 23:51:43,031 - INFO - interaccion: 0.0, fitness: 9061.0, NFE: 53
+2024-09-25 23:51:43,708 - INFO - poblacion: 6
+2024-09-25 23:51:44,854 - INFO - interaccion: 0.0, fitness: 9061.0, NFE: 61
+2024-09-25 23:51:45,463 - INFO - poblacion: 6
+2024-09-25 23:51:46,601 - INFO - interaccion: 0.0, fitness: 9061.0, NFE: 69
+2024-09-25 23:51:47,197 - INFO - poblacion: 6
+2024-09-25 23:51:48,346 - INFO - interaccion: 0.0, fitness: 9061.0, NFE: 77
+2024-09-25 23:51:49,001 - INFO - poblacion: 6
+2024-09-25 23:51:50,198 - INFO - interaccion: 0.0, fitness: 9061.0, NFE: 85
+2024-09-25 23:51:50,797 - INFO - poblacion: 6
+2024-09-25 23:51:51,946 - INFO - interaccion: 0.0, fitness: 9061.0, NFE: 93
+2024-09-25 23:51:52,571 - INFO - poblacion: 6
+2024-09-25 23:51:53,731 - INFO - interaccion: 0.0, fitness: 9061.0, NFE: 101
+2024-09-25 23:51:54,329 - INFO - poblacion: 6
+2024-09-25 23:51:55,455 - INFO - interaccion: 0.0, fitness: 9061.0, NFE: 109
+2024-09-25 23:51:56,057 - INFO - poblacion: 6
+2024-09-25 23:51:57,217 - INFO - interaccion: 0.0, fitness: 9079.0, NFE: 117
+2024-09-25 23:51:57,823 - INFO - poblacion: 6
+2024-09-25 23:51:58,968 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 125
+2024-09-25 23:51:59,564 - INFO - poblacion: 6
+2024-09-25 23:52:00,707 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 133
+2024-09-25 23:52:01,319 - INFO - poblacion: 6
+2024-09-25 23:52:02,453 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 141
+2024-09-25 23:52:03,058 - INFO - poblacion: 6
+2024-09-25 23:52:04,304 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 149
+2024-09-25 23:52:04,915 - INFO - poblacion: 6
+2024-09-25 23:52:06,056 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 157
+2024-09-25 23:52:06,694 - INFO - poblacion: 6
+2024-09-25 23:52:07,904 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 165
+2024-09-25 23:52:08,548 - INFO - poblacion: 6
+2024-09-25 23:52:09,689 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 173
+2024-09-25 23:52:10,287 - INFO - poblacion: 6
+2024-09-25 23:52:11,422 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 181
+2024-09-25 23:52:12,018 - INFO - poblacion: 6
+2024-09-25 23:52:13,167 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 189
+2024-09-25 23:52:13,765 - INFO - poblacion: 6
+2024-09-25 23:52:14,903 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 197
+2024-09-25 23:52:15,514 - INFO - poblacion: 6
+2024-09-25 23:52:16,684 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 205
+2024-09-25 23:52:17,303 - INFO - poblacion: 6
+2024-09-25 23:52:18,456 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 213
+2024-09-25 23:52:19,066 - INFO - poblacion: 6
+2024-09-25 23:52:20,245 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 221
+2024-09-25 23:52:20,840 - INFO - poblacion: 6
+2024-09-25 23:52:21,972 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 229
+2024-09-25 23:52:22,566 - INFO - poblacion: 6
+2024-09-25 23:52:23,709 - INFO - interaccion: 0.0, fitness: 9123.0, NFE: 237
+2024-09-25 23:52:24,304 - INFO - poblacion: 6
+2024-09-26 00:04:45,401 - INFO - interaccion: 0.0, fitness: 5618.0, NFE: 5
+2024-09-26 00:04:46,021 - INFO - poblacion: 6
+2024-09-26 00:04:47,202 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 13
+2024-09-26 00:04:47,816 - INFO - poblacion: 6
+2024-09-26 00:04:48,991 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 21
+2024-09-26 00:04:49,618 - INFO - poblacion: 6
+2024-09-26 00:04:50,795 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 29
+2024-09-26 00:04:51,407 - INFO - poblacion: 6
+2024-09-26 00:04:52,579 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 37
+2024-09-26 00:04:53,191 - INFO - poblacion: 6
+2024-09-26 00:04:54,369 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 45
+2024-09-26 00:04:54,992 - INFO - poblacion: 6
+2024-09-26 00:04:56,152 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 53
+2024-09-26 00:04:56,764 - INFO - poblacion: 6
+2024-09-26 00:04:57,927 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 61
+2024-09-26 00:04:58,541 - INFO - poblacion: 6
+2024-09-26 00:04:59,715 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 69
+2024-09-26 00:05:00,338 - INFO - poblacion: 6
+2024-09-26 00:05:01,508 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 77
+2024-09-26 00:05:02,133 - INFO - poblacion: 6
+2024-09-26 00:05:03,300 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 85
+2024-09-26 00:05:03,950 - INFO - poblacion: 6
+2024-09-26 00:05:05,161 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 93
+2024-09-26 00:05:05,783 - INFO - poblacion: 6
+2024-09-26 00:05:06,958 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 101
+2024-09-26 00:05:07,589 - INFO - poblacion: 6
+2024-09-26 00:05:08,751 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 109
+2024-09-26 00:05:09,368 - INFO - poblacion: 6
+2024-09-26 00:05:10,552 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 117
+2024-09-26 00:05:11,168 - INFO - poblacion: 6
+2024-09-26 00:05:12,345 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 125
+2024-09-26 00:05:12,969 - INFO - poblacion: 6
+2024-09-26 00:05:14,145 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 133
+2024-09-26 00:05:14,765 - INFO - poblacion: 6
+2024-09-26 00:05:15,938 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 141
+2024-09-26 00:05:16,564 - INFO - poblacion: 6
+2024-09-26 00:05:17,725 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 149
+2024-09-26 00:05:18,349 - INFO - poblacion: 6
+2024-09-26 00:05:19,531 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 157
+2024-09-26 00:05:20,198 - INFO - poblacion: 6
+2024-09-26 00:05:21,399 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 165
+2024-09-26 00:05:22,026 - INFO - poblacion: 6
+2024-09-26 00:05:23,247 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 173
+2024-09-26 00:05:23,865 - INFO - poblacion: 6
+2024-09-26 00:05:25,027 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 181
+2024-09-26 00:05:25,641 - INFO - poblacion: 6
+2024-09-26 00:05:26,812 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 189
+2024-09-26 00:05:27,423 - INFO - poblacion: 6
+2024-09-26 00:05:28,589 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 197
+2024-09-26 00:05:29,196 - INFO - poblacion: 6
+2024-09-26 00:05:30,386 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 205
+2024-09-26 00:05:31,018 - INFO - poblacion: 6
+2024-09-26 00:05:32,200 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 213
+2024-09-26 00:05:32,818 - INFO - poblacion: 6
+2024-09-26 00:05:34,002 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 221
+2024-09-26 00:05:34,625 - INFO - poblacion: 6
+2024-09-26 00:05:35,817 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 229
+2024-09-26 00:05:36,444 - INFO - poblacion: 6
+2024-09-26 00:05:37,621 - INFO - interaccion: 0.0, fitness: 8929.0, NFE: 237
+2024-09-26 00:05:38,239 - INFO - poblacion: 6
+2024-09-26 00:05:39,235 - INFO - interaccion: 0.0, fitness: 5696.0, NFE: 5
+2024-09-26 00:05:39,939 - INFO - poblacion: 6
+2024-09-26 00:05:41,158 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 13
+2024-09-26 00:05:41,793 - INFO - poblacion: 6
+2024-09-26 00:05:42,972 - INFO - interaccion: 0.0, fitness: 8926.0, NFE: 21
+2024-09-26 00:05:43,597 - INFO - poblacion: 6
+2024-09-26 00:05:44,774 - INFO - interaccion: 0.0, fitness: 9015.0, NFE: 29
+2024-09-26 00:05:45,381 - INFO - poblacion: 6
+2024-09-26 00:05:46,550 - INFO - interaccion: 0.0, fitness: 9015.0, NFE: 37
+2024-09-26 00:05:47,170 - INFO - poblacion: 6
+2024-09-26 00:05:48,331 - INFO - interaccion: 0.0, fitness: 9015.0, NFE: 45
+2024-09-26 00:05:48,941 - INFO - poblacion: 6
+2024-09-26 00:05:50,085 - INFO - interaccion: 0.0, fitness: 9015.0, NFE: 53
+2024-09-26 00:05:50,691 - INFO - poblacion: 6
+2024-09-26 00:05:51,847 - INFO - interaccion: 0.0, fitness: 9024.0, NFE: 61
+2024-09-26 00:05:52,454 - INFO - poblacion: 6
+2024-09-26 00:05:53,647 - INFO - interaccion: 0.0, fitness: 9024.0, NFE: 69
+2024-09-26 00:05:54,284 - INFO - poblacion: 6
+2024-09-26 00:05:55,437 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 77
+2024-09-26 00:05:56,054 - INFO - poblacion: 6
+2024-09-26 00:05:57,232 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 85
+2024-09-26 00:05:57,842 - INFO - poblacion: 6
+2024-09-26 00:05:59,019 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 93
+2024-09-26 00:05:59,652 - INFO - poblacion: 6
+2024-09-26 00:06:00,882 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 101
+2024-09-26 00:06:01,512 - INFO - poblacion: 6
+2024-09-26 00:06:02,699 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 109
+2024-09-26 00:06:03,322 - INFO - poblacion: 6
+2024-09-26 00:06:04,491 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 117
+2024-09-26 00:06:05,106 - INFO - poblacion: 6
+2024-09-26 00:06:06,261 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 125
+2024-09-26 00:06:06,878 - INFO - poblacion: 6
+2024-09-26 00:06:08,041 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 133
+2024-09-26 00:06:08,663 - INFO - poblacion: 6
+2024-09-26 00:06:09,845 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 141
+2024-09-26 00:06:10,467 - INFO - poblacion: 6
+2024-09-26 00:06:11,629 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 149
+2024-09-26 00:06:12,265 - INFO - poblacion: 6
+2024-09-26 00:06:13,438 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 157
+2024-09-26 00:06:14,059 - INFO - poblacion: 6
+2024-09-26 00:06:15,239 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 165
+2024-09-26 00:06:15,858 - INFO - poblacion: 6
+2024-09-26 00:06:17,026 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 173
+2024-09-26 00:06:17,638 - INFO - poblacion: 6
+2024-09-26 00:06:18,805 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 181
+2024-09-26 00:06:19,417 - INFO - poblacion: 6
+2024-09-26 00:06:20,584 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 189
+2024-09-26 00:06:21,196 - INFO - poblacion: 6
+2024-09-26 00:06:22,349 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 197
+2024-09-26 00:06:22,958 - INFO - poblacion: 6
+2024-09-26 00:06:24,127 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 205
+2024-09-26 00:06:24,741 - INFO - poblacion: 6
+2024-09-26 00:06:25,916 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 213
+2024-09-26 00:06:26,537 - INFO - poblacion: 6
+2024-09-26 00:06:27,708 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 221
+2024-09-26 00:06:28,325 - INFO - poblacion: 6
+2024-09-26 00:06:29,493 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 229
+2024-09-26 00:06:30,109 - INFO - poblacion: 6
+2024-09-26 00:06:31,285 - INFO - interaccion: 0.0, fitness: 9122.0, NFE: 237
+2024-09-26 00:06:31,906 - INFO - poblacion: 6
+2024-09-26 00:14:31,544 - INFO - interaccion: 0.0, fitness: 5631.0, NFE: 5
+2024-09-26 00:14:32,164 - INFO - poblacion: 6
+2024-09-26 00:14:33,331 - INFO - interaccion: 0.0, fitness: 5884.0, NFE: 13
+2024-09-26 00:14:33,954 - INFO - poblacion: 6
+2024-09-26 00:14:35,128 - INFO - interaccion: 0.0, fitness: 5884.0, NFE: 21
+2024-09-26 00:14:35,765 - INFO - poblacion: 6
+2024-09-26 00:14:36,959 - INFO - interaccion: 0.0, fitness: 5922.0, NFE: 29
+2024-09-26 00:14:37,599 - INFO - poblacion: 6
+2024-09-26 00:14:38,785 - INFO - interaccion: 0.0, fitness: 5922.0, NFE: 37
+2024-09-26 00:14:39,441 - INFO - poblacion: 6
+2024-09-26 00:14:40,645 - INFO - interaccion: 0.0, fitness: 8359.0, NFE: 45
+2024-09-26 00:14:41,273 - INFO - poblacion: 6
+2024-09-26 00:14:42,479 - INFO - interaccion: 0.0, fitness: 8494.0, NFE: 53
+2024-09-26 00:14:43,098 - INFO - poblacion: 6
+2024-09-26 00:14:44,268 - INFO - interaccion: 0.0, fitness: 8494.0, NFE: 61
+2024-09-26 00:14:44,889 - INFO - poblacion: 6
+2024-09-26 00:14:46,061 - INFO - interaccion: 0.0, fitness: 8547.0, NFE: 69
+2024-09-26 00:14:46,679 - INFO - poblacion: 6
+2024-09-26 00:14:47,837 - INFO - interaccion: 0.0, fitness: 8547.0, NFE: 77
+2024-09-26 00:14:48,444 - INFO - poblacion: 6
+2024-09-26 00:14:49,590 - INFO - interaccion: 0.0, fitness: 8547.0, NFE: 85
+2024-09-26 00:14:50,195 - INFO - poblacion: 6
+2024-09-26 00:14:51,358 - INFO - interaccion: 0.0, fitness: 8617.0, NFE: 93
+2024-09-26 00:14:51,973 - INFO - poblacion: 6
+2024-09-26 00:14:53,137 - INFO - interaccion: 0.0, fitness: 8617.0, NFE: 101
+2024-09-26 00:14:53,758 - INFO - poblacion: 6
+2024-09-26 00:14:54,908 - INFO - interaccion: 0.0, fitness: 8617.0, NFE: 109
+2024-09-26 00:14:55,513 - INFO - poblacion: 6
+2024-09-26 00:14:56,701 - INFO - interaccion: 0.0, fitness: 8617.0, NFE: 117
+2024-09-26 00:14:57,312 - INFO - poblacion: 6
+2024-09-26 00:14:58,463 - INFO - interaccion: 0.0, fitness: 8617.0, NFE: 125
+2024-09-26 00:14:59,070 - INFO - poblacion: 6
+2024-09-26 00:15:00,278 - INFO - interaccion: 0.0, fitness: 8638.0, NFE: 133
+2024-09-26 00:15:00,927 - INFO - poblacion: 6
+2024-09-26 00:15:02,101 - INFO - interaccion: 0.0, fitness: 8638.0, NFE: 141
+2024-09-26 00:15:02,704 - INFO - poblacion: 6
+2024-09-26 00:15:03,878 - INFO - interaccion: 0.0, fitness: 8638.0, NFE: 149
+2024-09-26 00:15:04,494 - INFO - poblacion: 6
+2024-09-26 00:15:05,643 - INFO - interaccion: 0.0, fitness: 8638.0, NFE: 157
+2024-09-26 00:15:06,242 - INFO - poblacion: 6
+2024-09-26 00:15:07,395 - INFO - interaccion: 0.0, fitness: 8638.0, NFE: 165
+2024-09-26 00:15:07,998 - INFO - poblacion: 6
+2024-09-26 00:15:09,135 - INFO - interaccion: 0.0, fitness: 8638.0, NFE: 173
+2024-09-26 00:17:05,444 - INFO - interaccion: 0.0, fitness: 6539.0, NFE: 5
+2024-09-26 00:17:06,069 - INFO - poblacion: 6
+2024-09-26 00:17:07,246 - INFO - interaccion: 0.0, fitness: 6539.0, NFE: 13
+2024-09-26 00:17:07,897 - INFO - poblacion: 6
+2024-09-26 00:17:09,111 - INFO - interaccion: 0.0, fitness: 6629.0, NFE: 21
+2024-09-26 00:17:09,741 - INFO - poblacion: 6
+2024-09-26 00:17:10,922 - INFO - interaccion: 0.0, fitness: 6629.0, NFE: 29
+2024-09-26 00:17:11,571 - INFO - poblacion: 6
+2024-09-26 00:17:12,774 - INFO - interaccion: 0.0, fitness: 6678.0, NFE: 37
+2024-09-26 00:17:13,392 - INFO - poblacion: 6
+2024-09-26 00:17:14,546 - INFO - interaccion: 0.0, fitness: 7139.0, NFE: 45
+2024-09-26 00:17:15,170 - INFO - poblacion: 6
+2024-09-26 00:17:16,360 - INFO - interaccion: 0.0, fitness: 7139.0, NFE: 53
+2024-09-26 00:17:16,987 - INFO - poblacion: 6
+2024-09-26 00:17:18,152 - INFO - interaccion: 0.0, fitness: 7139.0, NFE: 61
+2024-09-26 00:17:18,787 - INFO - poblacion: 6
+2024-09-26 00:17:19,948 - INFO - interaccion: 0.0, fitness: 7139.0, NFE: 69
+2024-09-26 00:17:20,560 - INFO - poblacion: 6
+2024-09-26 00:17:21,699 - INFO - interaccion: 0.0, fitness: 7139.0, NFE: 77
+2024-09-26 00:17:22,294 - INFO - poblacion: 6
+2024-09-26 00:17:23,456 - INFO - interaccion: 0.0, fitness: 7253.0, NFE: 85
+2024-09-26 00:17:24,085 - INFO - poblacion: 6
+2024-09-26 00:17:25,242 - INFO - interaccion: 0.0, fitness: 7253.0, NFE: 93
+2024-09-26 00:17:25,852 - INFO - poblacion: 6
+2024-09-26 00:17:26,996 - INFO - interaccion: 0.0, fitness: 7253.0, NFE: 101
+2024-09-26 00:17:27,597 - INFO - poblacion: 6
+2024-09-26 00:17:28,745 - INFO - interaccion: 0.0, fitness: 7253.0, NFE: 109
+2024-09-26 00:17:29,380 - INFO - poblacion: 6
+2024-09-26 00:17:30,550 - INFO - interaccion: 0.0, fitness: 7253.0, NFE: 117
+2024-09-26 00:17:31,177 - INFO - poblacion: 6
+2024-09-26 00:17:32,345 - INFO - interaccion: 0.0, fitness: 7584.0, NFE: 125
+2024-09-26 00:17:32,961 - INFO - poblacion: 6
+2024-09-26 00:17:34,119 - INFO - interaccion: 0.0, fitness: 7584.0, NFE: 133
+2024-09-26 00:17:34,723 - INFO - poblacion: 6
+2024-09-26 00:17:35,874 - INFO - interaccion: 0.0, fitness: 7718.0, NFE: 141
+2024-09-26 00:17:36,477 - INFO - poblacion: 6
+2024-09-26 00:17:37,623 - INFO - interaccion: 0.0, fitness: 7718.0, NFE: 149
+2024-09-26 00:17:38,231 - INFO - poblacion: 6
+2024-09-26 00:17:39,373 - INFO - interaccion: 0.0, fitness: 7718.0, NFE: 157
+2024-09-26 00:17:39,973 - INFO - poblacion: 6
+2024-09-26 00:17:41,130 - INFO - interaccion: 0.0, fitness: 7718.0, NFE: 165
+2024-09-26 00:17:41,734 - INFO - poblacion: 6
+2024-09-26 00:17:42,895 - INFO - interaccion: 0.0, fitness: 7718.0, NFE: 173
+2024-09-26 00:17:43,498 - INFO - poblacion: 6
+2024-09-26 00:17:44,644 - INFO - interaccion: 0.0, fitness: 7788.0, NFE: 181
+2024-09-26 00:17:45,259 - INFO - poblacion: 6
+2024-09-26 00:17:46,433 - INFO - interaccion: 0.0, fitness: 7788.0, NFE: 189
+2024-09-26 00:17:47,049 - INFO - poblacion: 6
+2024-09-26 00:17:48,206 - INFO - interaccion: 0.0, fitness: 7788.0, NFE: 197
+2024-09-26 00:17:48,808 - INFO - poblacion: 6
+2024-09-26 00:17:49,952 - INFO - interaccion: 0.0, fitness: 8764.0, NFE: 205
+2024-09-26 00:17:50,559 - INFO - poblacion: 6
+2024-09-26 00:17:51,701 - INFO - interaccion: 0.0, fitness: 8811.0, NFE: 213
+2024-09-26 00:17:52,298 - INFO - poblacion: 6
+2024-09-26 00:17:53,430 - INFO - interaccion: 0.0, fitness: 8811.0, NFE: 221
+2024-09-26 00:17:54,023 - INFO - poblacion: 6
+2024-09-26 00:17:55,148 - INFO - interaccion: 0.0, fitness: 8811.0, NFE: 229
+2024-09-26 00:17:55,741 - INFO - poblacion: 6
+2024-09-26 00:17:56,869 - INFO - interaccion: 0.0, fitness: 8811.0, NFE: 237
+2024-09-26 00:17:57,458 - INFO - poblacion: 6
+2024-09-26 00:18:44,106 - INFO - interaccion: 0.0, fitness: 5610.0, NFE: 5
+2024-09-26 00:18:44,718 - INFO - poblacion: 6
+2024-09-26 00:18:45,910 - INFO - interaccion: 0.0, fitness: 7142.0, NFE: 13
+2024-09-26 00:18:46,532 - INFO - poblacion: 6
+2024-09-26 00:18:47,705 - INFO - interaccion: 0.0, fitness: 7142.0, NFE: 21
+2024-09-26 00:18:48,321 - INFO - poblacion: 6
+2024-09-26 00:18:49,504 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 29
+2024-09-26 00:18:50,115 - INFO - poblacion: 6
+2024-09-26 00:18:51,287 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 37
+2024-09-26 00:18:51,897 - INFO - poblacion: 6
+2024-09-26 00:18:53,073 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 45
+2024-09-26 00:18:53,691 - INFO - poblacion: 6
+2024-09-26 00:18:54,883 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 53
+2024-09-26 00:18:55,495 - INFO - poblacion: 6
+2024-09-26 00:18:56,681 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 61
+2024-09-26 00:18:57,297 - INFO - poblacion: 6
+2024-09-26 00:18:58,465 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 69
+2024-09-26 00:18:59,072 - INFO - poblacion: 6
+2024-09-26 00:19:00,251 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 77
+2024-09-26 00:19:00,866 - INFO - poblacion: 6
+2024-09-26 00:19:02,029 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 85
+2024-09-26 00:19:02,642 - INFO - poblacion: 6
+2024-09-26 00:19:03,817 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 93
+2024-09-26 00:19:04,427 - INFO - poblacion: 6
+2024-09-26 00:19:05,601 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 101
+2024-09-26 00:19:06,207 - INFO - poblacion: 6
+2024-09-26 00:19:07,379 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 109
+2024-09-26 00:19:07,992 - INFO - poblacion: 6
+2024-09-26 00:19:09,158 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 117
+2024-09-26 00:19:09,764 - INFO - poblacion: 6
+2024-09-26 00:19:10,941 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 125
+2024-09-26 00:19:11,555 - INFO - poblacion: 6
+2024-09-26 00:19:12,720 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 133
+2024-09-26 00:19:13,330 - INFO - poblacion: 6
+2024-09-26 00:19:14,507 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 141
+2024-09-26 00:19:15,112 - INFO - poblacion: 6
+2024-09-26 00:19:16,283 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 149
+2024-09-26 00:19:16,890 - INFO - poblacion: 6
+2024-09-26 00:19:18,075 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 157
+2024-09-26 00:19:18,681 - INFO - poblacion: 6
+2024-09-26 00:19:19,851 - INFO - interaccion: 0.0, fitness: 7220.0, NFE: 165
+2024-09-26 00:19:20,451 - INFO - poblacion: 6
+2024-09-26 00:19:21,618 - INFO - interaccion: 0.0, fitness: 7314.0, NFE: 173
+2024-09-26 00:19:22,228 - INFO - poblacion: 6
+2024-09-26 00:19:23,399 - INFO - interaccion: 0.0, fitness: 7314.0, NFE: 181
+2024-09-26 00:19:24,013 - INFO - poblacion: 6
+2024-09-26 00:19:25,177 - INFO - interaccion: 0.0, fitness: 7505.0, NFE: 189
+2024-09-26 00:19:25,786 - INFO - poblacion: 6
+2024-09-26 00:19:26,958 - INFO - interaccion: 0.0, fitness: 7505.0, NFE: 197
+2024-09-26 00:19:27,564 - INFO - poblacion: 6
+2024-09-26 00:19:28,727 - INFO - interaccion: 0.0, fitness: 7505.0, NFE: 205
+2024-09-26 00:19:29,325 - INFO - poblacion: 6
+2024-09-26 00:19:30,481 - INFO - interaccion: 0.0, fitness: 7505.0, NFE: 213
+2024-09-26 00:19:31,077 - INFO - poblacion: 6
+2024-09-26 00:19:32,260 - INFO - interaccion: 0.0, fitness: 7505.0, NFE: 221
+2024-09-26 00:19:32,864 - INFO - poblacion: 6
+2024-09-26 00:19:34,034 - INFO - interaccion: -6.245004513516506e-16, fitness: 7518.0, NFE: 229
+2024-09-26 00:19:34,635 - INFO - poblacion: 6
+2024-09-26 00:19:35,798 - INFO - interaccion: -6.245004513516506e-16, fitness: 7518.0, NFE: 237
+2024-09-26 00:19:36,393 - INFO - poblacion: 6
+2024-09-26 00:29:02,494 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 5
+2024-09-26 00:29:03,114 - INFO - poblacion: 6
+2024-09-26 00:29:04,305 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 13
+2024-09-26 00:29:04,943 - INFO - poblacion: 6
+2024-09-26 00:29:06,128 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 21
+2024-09-26 00:29:06,748 - INFO - poblacion: 6
+2024-09-26 00:29:07,939 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 29
+2024-09-26 00:29:08,555 - INFO - poblacion: 6
+2024-09-26 00:29:09,743 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 37
+2024-09-26 00:29:10,359 - INFO - poblacion: 6
+2024-09-26 00:29:11,528 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 45
+2024-09-26 00:29:12,139 - INFO - poblacion: 6
+2024-09-26 00:29:13,318 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 53
+2024-09-26 00:29:13,938 - INFO - poblacion: 6
+2024-09-26 00:29:15,122 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 61
+2024-09-26 00:29:15,799 - INFO - poblacion: 6
+2024-09-26 00:29:17,018 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 69
+2024-09-26 00:29:17,645 - INFO - poblacion: 6
+2024-09-26 00:29:18,848 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 77
+2024-09-26 00:29:19,463 - INFO - poblacion: 6
+2024-09-26 00:29:20,674 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 85
+2024-09-26 00:29:21,303 - INFO - poblacion: 6
+2024-09-26 00:29:22,502 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 93
+2024-09-26 00:29:23,118 - INFO - poblacion: 6
+2024-09-26 00:29:24,317 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 101
+2024-09-26 00:29:24,973 - INFO - poblacion: 6
+2024-09-26 00:29:26,192 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 109
+2024-09-26 00:29:26,834 - INFO - poblacion: 6
+2024-09-26 00:29:28,027 - INFO - interaccion: 0.0, fitness: 8030.0, NFE: 117
+2024-09-26 00:29:28,663 - INFO - poblacion: 6
+2024-09-26 00:29:29,849 - INFO - interaccion: 0.0, fitness: 8267.0, NFE: 125
+2024-09-26 00:29:30,493 - INFO - poblacion: 6
+2024-09-26 00:29:31,674 - INFO - interaccion: 0.0, fitness: 8304.0, NFE: 133
+2024-09-26 00:29:32,290 - INFO - poblacion: 6
+2024-09-26 00:29:33,459 - INFO - interaccion: 0.0, fitness: 8322.0, NFE: 141
+2024-09-26 00:29:34,089 - INFO - poblacion: 6
+2024-09-26 00:29:35,289 - INFO - interaccion: 0.0, fitness: 8322.0, NFE: 149
+2024-09-26 00:29:35,924 - INFO - poblacion: 6
+2024-09-26 00:29:37,114 - INFO - interaccion: 0.0, fitness: 8422.0, NFE: 157
+2024-09-26 00:29:37,728 - INFO - poblacion: 6
+2024-09-26 00:29:38,949 - INFO - interaccion: 0.0, fitness: 8422.0, NFE: 165
+2024-09-26 00:29:39,602 - INFO - poblacion: 6
+2024-09-26 00:29:40,823 - INFO - interaccion: 0.0, fitness: 8422.0, NFE: 173
+2024-09-26 00:29:41,458 - INFO - poblacion: 6
+2024-09-26 00:29:42,634 - INFO - interaccion: 0.0, fitness: 8422.0, NFE: 181
+2024-09-26 00:29:43,249 - INFO - poblacion: 6
+2024-09-26 00:29:44,457 - INFO - interaccion: 0.0, fitness: 8422.0, NFE: 189
+2024-09-26 00:29:45,108 - INFO - poblacion: 6
+2024-09-26 00:29:46,312 - INFO - interaccion: 0.0, fitness: 8422.0, NFE: 197
+2024-09-26 00:29:46,948 - INFO - poblacion: 6
+2024-09-26 00:29:48,155 - INFO - interaccion: 0.0, fitness: 8422.0, NFE: 205
+2024-09-26 00:29:48,774 - INFO - poblacion: 6
+2024-09-26 00:29:49,956 - INFO - interaccion: 0.0, fitness: 8422.0, NFE: 213
+2024-09-26 00:29:50,583 - INFO - poblacion: 6
+2024-09-26 00:29:51,801 - INFO - interaccion: 0.0, fitness: 8422.0, NFE: 221
+2024-09-26 00:29:52,419 - INFO - poblacion: 6
+2024-09-26 00:29:53,629 - INFO - interaccion: 0.0, fitness: 8634.0, NFE: 229
+2024-09-26 00:29:54,251 - INFO - poblacion: 6
+2024-09-26 00:29:55,440 - INFO - interaccion: 0.0, fitness: 8634.0, NFE: 237
+2024-09-26 00:29:56,071 - INFO - poblacion: 6
+2024-09-26 02:26:58,924 - INFO - interaccion: 0.0, fitness: 5401.0, NFE: 5
+2024-09-26 02:26:59,547 - INFO - poblacion: 6
+2024-09-26 02:27:00,757 - INFO - interaccion: 0.0, fitness: 7156.0, NFE: 13
+2024-09-26 02:27:01,372 - INFO - poblacion: 6
+2024-09-26 02:27:02,562 - INFO - interaccion: -0.0006737946999085531, fitness: 7160.9993262053, NFE: 21
+2024-09-26 02:27:03,182 - INFO - poblacion: 6
+2024-09-26 02:27:04,359 - INFO - interaccion: 0.0, fitness: 8868.0, NFE: 29
+2024-09-26 02:27:04,971 - INFO - poblacion: 6
+2024-09-26 02:27:06,152 - INFO - interaccion: 0.0, fitness: 8892.0, NFE: 37
+2024-09-26 02:27:06,763 - INFO - poblacion: 6
+2024-09-26 02:27:07,939 - INFO - interaccion: 0.0, fitness: 8892.0, NFE: 45
+2024-09-26 02:27:08,554 - INFO - poblacion: 6
+2024-09-26 02:27:09,716 - INFO - interaccion: 0.0, fitness: 8937.0, NFE: 53
+2024-09-26 02:27:10,324 - INFO - poblacion: 6
+2024-09-26 02:27:11,488 - INFO - interaccion: 0.0, fitness: 8937.0, NFE: 61
+2024-09-26 02:27:12,101 - INFO - poblacion: 6
+2024-09-26 02:27:13,274 - INFO - interaccion: 0.0, fitness: 8964.0, NFE: 69
+2024-09-26 02:27:13,890 - INFO - poblacion: 6
+2024-09-26 02:27:15,063 - INFO - interaccion: 0.0, fitness: 8993.0, NFE: 77
+2024-09-26 02:27:15,674 - INFO - poblacion: 6
+2024-09-26 02:27:16,832 - INFO - interaccion: 0.0, fitness: 8993.0, NFE: 85
+2024-09-26 02:27:17,439 - INFO - poblacion: 6
+2024-11-02 20:12:46,118 - INFO - interaccion: 0.0, fitness: 5517.0, NFE: 5
+2024-11-02 20:12:46,960 - INFO - poblacion: 6
+2024-11-02 20:12:48,525 - INFO - interaccion: 0.0, fitness: 6741.0, NFE: 13
+2024-11-02 20:12:49,604 - INFO - poblacion: 6
+2024-11-02 20:12:51,206 - INFO - interaccion: 0.0, fitness: 6741.0, NFE: 21
+2024-11-02 20:12:52,007 - INFO - poblacion: 6
+2024-11-02 20:12:53,422 - INFO - interaccion: 0.0, fitness: 6741.0, NFE: 29
+2024-11-02 20:12:54,136 - INFO - poblacion: 6
+2024-11-02 20:12:55,481 - INFO - interaccion: 0.0, fitness: 6741.0, NFE: 37
+2024-11-02 20:12:56,226 - INFO - poblacion: 6
+2024-11-02 20:12:57,432 - INFO - interaccion: 0.0, fitness: 6741.0, NFE: 45
+2024-11-02 20:12:58,063 - INFO - poblacion: 6
+2024-11-02 20:12:59,338 - INFO - interaccion: 0.0, fitness: 6741.0, NFE: 53
+2024-11-02 20:13:00,002 - INFO - poblacion: 6
+2024-11-02 20:13:01,301 - INFO - interaccion: -5.545159943221023e-06, fitness: 6744.99999445484, NFE: 61
+2024-11-02 20:13:02,029 - INFO - poblacion: 6
+2024-11-02 20:13:03,225 - INFO - interaccion: -5.545159943221023e-06, fitness: 6744.99999445484, NFE: 69
+2024-11-02 20:13:03,885 - INFO - poblacion: 6
+2024-11-02 20:13:05,089 - INFO - interaccion: 0.0, fitness: 6800.0, NFE: 77
+2024-11-02 20:13:05,713 - INFO - poblacion: 6
+2024-11-02 20:13:06,908 - INFO - interaccion: 0.0, fitness: 6800.0, NFE: 85
+2024-11-02 20:13:07,529 - INFO - poblacion: 6
+2024-11-02 20:13:08,713 - INFO - interaccion: 0.0, fitness: 7854.0, NFE: 93
+2024-11-02 20:13:09,336 - INFO - poblacion: 6
+2024-11-02 20:13:10,525 - INFO - interaccion: 0.0, fitness: 7948.0, NFE: 101
+2024-11-02 20:13:11,150 - INFO - poblacion: 6
+2024-11-02 20:13:12,325 - INFO - interaccion: 0.0, fitness: 7948.0, NFE: 109
+2024-11-02 20:13:12,933 - INFO - poblacion: 6
+2024-11-02 20:13:14,106 - INFO - interaccion: 0.0, fitness: 7948.0, NFE: 117
+2024-11-02 20:13:14,724 - INFO - poblacion: 6
+2024-11-02 20:13:15,904 - INFO - interaccion: 0.0, fitness: 8066.0, NFE: 125
+2024-11-02 20:13:16,532 - INFO - poblacion: 6
+2024-11-02 20:13:17,735 - INFO - interaccion: 0.0, fitness: 8066.0, NFE: 133
+2024-11-02 20:13:18,372 - INFO - poblacion: 6
+2024-11-02 20:13:19,550 - INFO - interaccion: 0.0, fitness: 8165.0, NFE: 141
+2024-11-02 20:13:20,170 - INFO - poblacion: 6
+2024-11-02 20:13:21,342 - INFO - interaccion: 0.0, fitness: 8181.0, NFE: 149
+2024-11-02 20:13:21,958 - INFO - poblacion: 6
+2024-11-02 20:13:23,139 - INFO - interaccion: 0.0, fitness: 8181.0, NFE: 157
+2024-11-02 20:13:23,757 - INFO - poblacion: 6
+2024-11-02 20:13:24,934 - INFO - interaccion: 0.0, fitness: 8195.0, NFE: 165
+2024-11-02 20:13:25,550 - INFO - poblacion: 6
+2024-11-02 20:13:26,728 - INFO - interaccion: 0.0, fitness: 8195.0, NFE: 173
+2024-11-02 20:13:27,359 - INFO - poblacion: 6
+2024-11-02 20:13:28,563 - INFO - interaccion: 0.0, fitness: 8195.0, NFE: 181
+2024-11-02 20:13:29,198 - INFO - poblacion: 6
+2024-11-02 20:13:30,392 - INFO - interaccion: 0.0, fitness: 8195.0, NFE: 189
+2024-11-02 20:13:31,001 - INFO - poblacion: 6
+2024-11-02 20:13:32,194 - INFO - interaccion: 0.0, fitness: 8195.0, NFE: 197
+2024-11-02 20:13:32,817 - INFO - poblacion: 6
+2024-11-02 20:13:33,989 - INFO - interaccion: 0.0, fitness: 8195.0, NFE: 205
+2024-11-02 20:13:34,597 - INFO - poblacion: 6
+2024-11-02 20:13:35,768 - INFO - interaccion: 0.0, fitness: 8195.0, NFE: 213
+2024-11-02 20:13:36,397 - INFO - poblacion: 6
+2024-11-02 20:13:37,574 - INFO - interaccion: 0.0, fitness: 8195.0, NFE: 221
+2024-11-02 20:13:38,188 - INFO - poblacion: 6
+2024-11-02 20:13:39,359 - INFO - interaccion: 0.0, fitness: 8195.0, NFE: 229
+2024-11-02 20:13:39,975 - INFO - poblacion: 6
+2024-11-02 20:13:41,164 - INFO - interaccion: 0.0, fitness: 8195.0, NFE: 237
+2024-11-02 20:13:41,785 - INFO - poblacion: 6
+2024-11-02 20:37:12,272 - INFO - interaccion: 0.0, fitness: 5607.0, NFE: 5
+2024-11-02 20:37:12,887 - INFO - poblacion: 6
+2024-11-02 20:37:14,119 - INFO - interaccion: 0.0, fitness: 5607.0, NFE: 13
+2024-11-02 20:37:14,738 - INFO - poblacion: 6
+2024-11-02 20:37:15,922 - INFO - interaccion: 0.0, fitness: 5607.0, NFE: 21
+2024-11-02 20:37:16,547 - INFO - poblacion: 6
+2024-11-02 20:37:17,735 - INFO - interaccion: 0.0, fitness: 5607.0, NFE: 29
+2024-11-02 20:37:18,352 - INFO - poblacion: 6
+2024-11-02 20:37:19,533 - INFO - interaccion: 0.0, fitness: 8416.0, NFE: 37
+2024-11-02 20:37:20,152 - INFO - poblacion: 6
+2024-11-02 20:37:21,324 - INFO - interaccion: 0.0, fitness: 8416.0, NFE: 45
+2024-11-02 20:37:21,934 - INFO - poblacion: 6
+2024-11-02 20:37:23,091 - INFO - interaccion: 0.0, fitness: 8416.0, NFE: 53
+2024-11-02 20:37:23,695 - INFO - poblacion: 6
+2024-11-02 20:37:24,855 - INFO - interaccion: 0.0, fitness: 8416.0, NFE: 61
+2024-11-02 20:37:25,464 - INFO - poblacion: 6
+2024-11-02 20:37:26,622 - INFO - interaccion: 0.0, fitness: 8416.0, NFE: 69
+2024-11-02 20:37:27,223 - INFO - poblacion: 6
+2024-11-02 20:37:28,391 - INFO - interaccion: 0.0, fitness: 8416.0, NFE: 77
+2024-11-02 20:37:28,995 - INFO - poblacion: 6
+2024-11-02 20:37:30,163 - INFO - interaccion: 0.0, fitness: 8416.0, NFE: 85
+2024-11-02 20:37:30,791 - INFO - poblacion: 6
+2024-11-02 20:37:31,969 - INFO - interaccion: 0.0, fitness: 8416.0, NFE: 93
+2024-11-02 20:37:32,582 - INFO - poblacion: 6
+2024-11-02 20:37:33,758 - INFO - interaccion: 0.0, fitness: 8479.0, NFE: 101
+2024-11-02 20:37:34,372 - INFO - poblacion: 6
+2024-11-02 20:37:35,528 - INFO - interaccion: 0.0, fitness: 8839.0, NFE: 109
+2024-11-02 20:37:36,135 - INFO - poblacion: 6
+2024-11-02 20:37:37,292 - INFO - interaccion: 0.0, fitness: 8839.0, NFE: 117
+2024-11-02 20:37:37,897 - INFO - poblacion: 6
+2024-11-02 20:37:39,059 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 125
+2024-11-02 20:37:39,664 - INFO - poblacion: 6
+2024-11-02 20:37:40,831 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 133
+2024-11-02 20:37:41,465 - INFO - poblacion: 6
+2024-11-02 20:37:42,651 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 141
+2024-11-02 20:37:43,277 - INFO - poblacion: 6
+2024-11-02 20:37:44,448 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 149
+2024-11-02 20:37:45,069 - INFO - poblacion: 6
+2024-11-02 20:37:46,233 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 157
+2024-11-02 20:37:46,839 - INFO - poblacion: 6
+2024-11-02 20:37:47,992 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 165
+2024-11-02 20:37:48,610 - INFO - poblacion: 6
+2024-11-02 20:37:49,781 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 173
+2024-11-02 20:37:50,384 - INFO - poblacion: 6
+2024-11-02 20:37:51,554 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 181
+2024-11-02 20:37:52,155 - INFO - poblacion: 6
+2024-11-02 20:37:53,313 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 189
+2024-11-02 20:37:53,914 - INFO - poblacion: 6
+2024-11-02 20:37:55,064 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 197
+2024-11-02 20:37:55,665 - INFO - poblacion: 6
+2024-11-02 20:37:56,830 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 205
+2024-11-02 20:37:57,428 - INFO - poblacion: 6
+2024-11-02 20:37:58,583 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 213
+2024-11-02 20:37:59,176 - INFO - poblacion: 6
+2024-11-02 20:38:00,370 - INFO - interaccion: 0.0, fitness: 8910.0, NFE: 221
+2024-11-02 20:38:01,008 - INFO - poblacion: 6
+2024-11-02 20:38:02,168 - INFO - interaccion: 0.0, fitness: 9142.0, NFE: 229
+2024-11-02 20:38:02,818 - INFO - poblacion: 6
+2024-11-02 20:38:03,974 - INFO - interaccion: 0.0, fitness: 9142.0, NFE: 237
+2024-11-02 20:38:04,576 - INFO - poblacion: 6
+2024-11-02 22:45:18,665 - INFO - interaccion: 0.0, fitness: 5401.0, NFE: 5
+2024-11-02 22:45:19,286 - INFO - poblacion: 6
+2024-11-02 22:45:20,487 - INFO - interaccion: 0.0, fitness: 5535.0, NFE: 13
+2024-11-02 22:45:21,109 - INFO - poblacion: 6
+2024-11-02 22:45:22,300 - INFO - interaccion: 0.0, fitness: 6541.0, NFE: 21
+2024-11-02 22:45:22,959 - INFO - poblacion: 6
+2024-11-02 22:45:24,145 - INFO - interaccion: 0.0, fitness: 6541.0, NFE: 29
+2024-11-02 22:45:24,772 - INFO - poblacion: 6
+2024-11-02 22:45:25,956 - INFO - interaccion: 0.0, fitness: 6541.0, NFE: 37
+2024-11-02 22:45:26,582 - INFO - poblacion: 6
+2024-11-02 22:45:27,798 - INFO - interaccion: 0.0, fitness: 6541.0, NFE: 45
+2024-11-02 22:45:28,421 - INFO - poblacion: 6
+2024-11-02 22:45:29,611 - INFO - interaccion: 0.0, fitness: 6584.0, NFE: 53
+2024-11-02 22:45:30,275 - INFO - poblacion: 6
+2024-11-02 22:45:31,487 - INFO - interaccion: 0.0, fitness: 7800.0, NFE: 61
+2024-11-02 22:45:32,151 - INFO - poblacion: 6
+2024-11-02 22:45:33,338 - INFO - interaccion: 0.0, fitness: 7800.0, NFE: 69
+2024-11-02 22:45:33,988 - INFO - poblacion: 6
+2024-11-02 22:45:35,287 - INFO - interaccion: 0.0, fitness: 7800.0, NFE: 77
+2024-11-02 22:45:35,925 - INFO - poblacion: 6
+2024-11-02 22:45:37,127 - INFO - interaccion: 0.0, fitness: 7800.0, NFE: 85
+2024-11-02 22:45:37,802 - INFO - poblacion: 6
+2024-11-02 22:45:39,023 - INFO - interaccion: 0.0, fitness: 7800.0, NFE: 93
+2024-11-02 22:45:39,700 - INFO - poblacion: 6
+2024-11-02 22:45:40,916 - INFO - interaccion: 0.0, fitness: 7800.0, NFE: 101
+2024-11-02 22:45:41,536 - INFO - poblacion: 6
+2024-11-02 22:45:42,726 - INFO - interaccion: 0.0, fitness: 7924.0, NFE: 109
+2024-11-02 22:45:43,353 - INFO - poblacion: 6
+2024-11-02 22:45:44,538 - INFO - interaccion: 0.0, fitness: 7998.0, NFE: 117
+2024-11-02 22:45:45,158 - INFO - poblacion: 6
+2024-11-02 22:45:46,364 - INFO - interaccion: 0.0, fitness: 7998.0, NFE: 125
+2024-11-02 22:45:46,996 - INFO - poblacion: 6
+2024-11-02 22:45:48,220 - INFO - interaccion: 0.0, fitness: 8076.0, NFE: 133
+2024-11-02 22:45:48,851 - INFO - poblacion: 6
+2024-11-02 22:45:50,058 - INFO - interaccion: 0.0, fitness: 8173.0, NFE: 141
+2024-11-02 22:45:50,679 - INFO - poblacion: 6
+2024-11-02 22:45:51,894 - INFO - interaccion: 0.0, fitness: 8226.0, NFE: 149
+2024-11-02 22:45:52,557 - INFO - poblacion: 6
+2024-11-02 22:45:53,749 - INFO - interaccion: 0.0, fitness: 8226.0, NFE: 157
+2024-11-02 22:45:54,403 - INFO - poblacion: 6
+2024-11-02 22:45:55,591 - INFO - interaccion: 0.0, fitness: 8226.0, NFE: 165
+2024-11-02 22:45:56,233 - INFO - poblacion: 6
+2024-11-02 22:45:57,416 - INFO - interaccion: 0.0, fitness: 8226.0, NFE: 173
+2024-11-02 22:45:58,054 - INFO - poblacion: 6
+2024-11-02 22:45:59,258 - INFO - interaccion: 0.0, fitness: 8226.0, NFE: 181
+2024-11-02 22:45:59,912 - INFO - poblacion: 6
+2024-11-02 22:46:01,346 - INFO - interaccion: 0.0, fitness: 8226.0, NFE: 189
+2024-11-02 22:46:01,998 - INFO - poblacion: 6
+2024-11-02 22:46:03,179 - INFO - interaccion: 0.0, fitness: 8226.0, NFE: 197
+2024-11-02 22:46:03,794 - INFO - poblacion: 6
+2024-11-02 22:46:04,980 - INFO - interaccion: 0.0, fitness: 8286.0, NFE: 205
+2024-11-02 22:46:05,610 - INFO - poblacion: 6
+2024-11-02 22:46:06,796 - INFO - interaccion: 0.0, fitness: 8302.0, NFE: 213
+2024-11-02 22:46:07,420 - INFO - poblacion: 6
+2024-11-02 22:46:08,586 - INFO - interaccion: 0.0, fitness: 8302.0, NFE: 221
+2024-11-02 22:46:09,199 - INFO - poblacion: 6
+2024-11-02 22:46:10,373 - INFO - interaccion: 0.0, fitness: 8302.0, NFE: 229
+2024-11-02 22:46:11,056 - INFO - poblacion: 6
+2024-11-02 22:46:12,277 - INFO - interaccion: 0.0, fitness: 8302.0, NFE: 237
+2024-11-02 22:46:12,931 - INFO - poblacion: 6
+2024-11-02 22:46:31,872 - INFO - interaccion: 0.0, fitness: 5469.0, NFE: 5
+2024-11-02 22:46:32,506 - INFO - poblacion: 6
+2024-11-02 22:46:33,718 - INFO - interaccion: 0.0, fitness: 6740.0, NFE: 13
+2024-11-02 22:46:34,386 - INFO - poblacion: 6
+2024-11-02 22:46:35,603 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 21
+2024-11-02 22:46:36,303 - INFO - poblacion: 6
+2024-11-02 22:46:37,527 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 29
+2024-11-02 22:46:38,137 - INFO - poblacion: 6
+2024-11-02 22:46:39,307 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 37
+2024-11-02 22:46:39,913 - INFO - poblacion: 6
+2024-11-02 22:46:41,075 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 45
+2024-11-02 22:46:41,683 - INFO - poblacion: 6
+2024-11-02 22:46:42,853 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 53
+2024-11-02 22:46:43,461 - INFO - poblacion: 6
+2024-11-02 22:46:44,637 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 61
+2024-11-02 22:46:45,259 - INFO - poblacion: 6
+2024-11-02 22:46:46,434 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 69
+2024-11-02 22:46:47,046 - INFO - poblacion: 6
+2024-11-02 22:46:48,211 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 77
+2024-11-02 22:46:48,837 - INFO - poblacion: 6
+2024-11-02 22:46:50,014 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 85
+2024-11-02 22:46:50,633 - INFO - poblacion: 6
+2024-11-02 22:46:51,805 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 93
+2024-11-02 22:46:52,427 - INFO - poblacion: 6
+2024-11-02 22:46:53,628 - INFO - interaccion: 0.0, fitness: 8027.0, NFE: 101
+2024-11-02 22:46:54,243 - INFO - poblacion: 6
+2024-11-02 22:46:55,409 - INFO - interaccion: 0.0, fitness: 9047.0, NFE: 109
+2024-11-02 22:46:56,063 - INFO - poblacion: 6
+2024-11-02 22:46:57,235 - INFO - interaccion: 0.0, fitness: 9047.0, NFE: 117
+2024-11-02 22:46:57,897 - INFO - poblacion: 6
+2024-11-02 22:46:59,062 - INFO - interaccion: 0.0, fitness: 9086.0, NFE: 125
+2024-11-02 22:46:59,668 - INFO - poblacion: 6
+2024-11-02 22:47:00,841 - INFO - interaccion: 0.0, fitness: 9086.0, NFE: 133
+2024-11-02 22:47:01,448 - INFO - poblacion: 6
+2024-11-02 22:47:02,623 - INFO - interaccion: 0.0, fitness: 9086.0, NFE: 141
+2024-11-02 22:47:03,276 - INFO - poblacion: 6
+2024-11-02 22:47:04,444 - INFO - interaccion: 0.0, fitness: 9086.0, NFE: 149
+2024-11-02 22:47:05,093 - INFO - poblacion: 6
+2024-11-02 22:47:06,440 - INFO - interaccion: -0.0006737946999085531, fitness: 9090.9993262053, NFE: 157
+2024-11-02 22:47:07,349 - INFO - poblacion: 6
+2024-11-02 22:47:08,667 - INFO - interaccion: -0.0006737946999085531, fitness: 9090.9993262053, NFE: 165
+2024-11-02 22:47:09,280 - INFO - poblacion: 6
+2024-11-02 22:47:10,443 - INFO - interaccion: 0.0, fitness: 9144.0, NFE: 173
+2024-11-02 22:47:11,049 - INFO - poblacion: 6
+2024-11-02 22:47:12,217 - INFO - interaccion: 0.0, fitness: 9144.0, NFE: 181
+2024-11-02 22:47:12,827 - INFO - poblacion: 6
+2024-11-02 22:47:13,986 - INFO - interaccion: 0.0, fitness: 9144.0, NFE: 189
+2024-11-02 22:47:14,600 - INFO - poblacion: 6
+2024-11-02 22:47:15,771 - INFO - interaccion: 0.0, fitness: 9144.0, NFE: 197
+2024-11-02 22:47:16,394 - INFO - poblacion: 6
+2024-11-02 22:47:17,590 - INFO - interaccion: 0.0, fitness: 9144.0, NFE: 205
+2024-11-02 22:47:18,209 - INFO - poblacion: 6
+2024-11-02 22:47:19,416 - INFO - interaccion: 0.0, fitness: 9144.0, NFE: 213
+2024-11-02 22:47:20,019 - INFO - poblacion: 6
+2024-11-02 22:47:21,192 - INFO - interaccion: 0.0, fitness: 9144.0, NFE: 221
+2024-11-02 22:47:21,807 - INFO - poblacion: 6
+2024-11-02 22:47:22,963 - INFO - interaccion: 0.0, fitness: 9144.0, NFE: 229
+2024-11-02 22:47:23,577 - INFO - poblacion: 6
+2024-11-02 22:47:24,738 - INFO - interaccion: 0.0, fitness: 9144.0, NFE: 237
+2024-11-02 22:47:25,344 - INFO - poblacion: 6
